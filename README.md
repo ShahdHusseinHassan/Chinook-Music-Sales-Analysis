@@ -1,21 +1,21 @@
 # 🎵 Chinook Music Sales Analysis
 
-### **MySQL + Excel Data Visualization Project**
+# MySQL + Excel Data Visualization Project
 
-This project analyzes the Chinook Music Store Database using MySQL for data extraction and Excel for dashboard creation. The goal was to extract key business insights using SQL and present the findings in an interactive dashboard format.
+This project analyzes the Chinook Music Store Database using MySQL for data extraction and Excel for dashboard creation.
+The goal was to extract key business insights using SQL and present the findings in the dashboard.
 
 ---
 
 ## 📘 Project Overview
 
 The Chinook database represents a digital music store containing:
-
-* Artists
-* Albums
-* Tracks
-* Genres
-* Customers
-* Invoices & Invoice Items
+Artists
+Albums
+Tracks
+Genres
+Customers
+Inoices & Invoice Items
 
 I used MySQL to extract and aggregate the sales data, then imported the cleaned dataset into Excel, where I built the dashboard.
 
@@ -27,15 +27,14 @@ I used MySQL to extract and aggregate the sales data, then imported the cleaned 
 
 ---
 
-## 🔍 Key Insights
+### 🔍 Key Insights
 
 * **Top Genre:** Rock is the dominant sales genre.
 * **Leading Artist:** Iron Maiden generates the highest sales revenue among all artists.
 * **Top Market:** The USA is the most valuable market, followed by Canada.
-* **Sales Trend:** Yearly sales show clear fluctuations and trends.
+* **Sales Trend:** Yearly sales show clear changes and trends.
 
 ---
-
 ## 👤 Author
 
 **Shahd Hussein**
