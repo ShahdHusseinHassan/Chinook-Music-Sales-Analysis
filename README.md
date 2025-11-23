@@ -5,6 +5,8 @@
 This project analyzes the Chinook Music Store Database using MySQL for data extraction and Excel for dashboard creation.
 The goal was to extract key business insights using SQL and present the findings in the dashboard.
 
+This project is part of my Elevvo Data Analysis Internship.
+
 ---
 
 ## 📘 Project Overview
