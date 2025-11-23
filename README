@@ -16,7 +16,7 @@ I used MySQL to extract and aggregate the sales data, then imported the cleaned 
 
 --
 📁 Dashboard Preview
-!(dashboard)
+!(dashboard.png)
 --
 🔍 Key Insights
 Top Genre: Rock is the dominant sales genre.
