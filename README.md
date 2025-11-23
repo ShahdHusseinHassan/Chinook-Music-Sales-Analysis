@@ -23,11 +23,11 @@ I used MySQL to extract and aggregate the sales data, then imported the cleaned 
 
 ## 📁 Dashboard Preview
 
-![Chinook Music Sales Dashboard Preview](Dashboard/dashboard.png)
+![Chinook Music Sales Dashboard Preview](dashboard.png)
 
 ---
 
-### 🔍 Key Insights
+## 🔍 Key Insights
 
 * **Top Genre:** Rock is the dominant sales genre.
 * **Leading Artist:** Iron Maiden generates the highest sales revenue among all artists.
